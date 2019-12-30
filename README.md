@@ -33,6 +33,7 @@ Finally beat shedule
 python manage.py celery -A async beat -l info
 ```
 ## Learn more
-[Tutorial1](https://djangopy.org/how-to/handle-asynchronous-tasks-with-celery-and-django#periodic-tasks)
-[Tutorial1]([Tutorial1](https://djangopy.org/how-to/handle-asynchronous-tasks-with-celery-and-django#periodic-tasks)
-)
+[Tutorial0](https://djangopy.org/how-to/handle-asynchronous-tasks-with-celery-and-django#periodic-tasks)
+[Tutorial1](https://docs.celeryproject.org/en/2.1-archived/reference/celery.decorators.html)
+[tutorial2](https://docs.celeryproject.org/en/latest/userguide/periodic-tasks.html)
+[tutorial3](https://medium.com/@yedjoe/celery-4-periodic-task-in-django-9f6b5a8c21c7)
